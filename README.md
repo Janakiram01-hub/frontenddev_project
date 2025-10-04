@@ -149,11 +149,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Fonts from [Google Fonts](https://fonts.google.com)
 - Design inspiration from contemporary e-commerce sites
 
-## Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
-
-Project Link: [https://github.com/yourusername/voguevista](https://github.com/yourusername/voguevista)
 
 ---
 
